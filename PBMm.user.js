@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         VK Pixel Battle Minimap | KxZ
+// @name         VK Pixel Battle Minimap | KDLxZEVS
 // @namespace    http://tampermonkey.net/
 // @version      0.1.0
 // @description  VK Pixel Battle Minimap.\n Adapted MLP Pixel Minimap 1.3.11
-// @author       Endless Night, ConsoleBey, olbld (aka sheffchinski)
+// @author       Endless Night, ConsoleBey, olbld (aka sheffchinski), CapralLex
 // @grant 		 GM_xmlhttpRequest
 // @grant 		 unsafeWindow
 // @require		 https://raw.githubusercontent.com/mitchellmebane/GM_fetch/master/GM_fetch.min.js
